@@ -1,9 +1,13 @@
-h1 {
-  color: dimgrey;
-  text-align: center;
-}
+body{
+  background-color: springgreen;
+  h1 {
+    color: dimgrey;
+    text-align: center;
+  }
 
-p {
-  color: orange;
-  text-align: left;
+  p {
+    color: dimgrey;
+    text-align: left;
+  }
+
 }
