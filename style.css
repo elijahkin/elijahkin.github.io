@@ -5,10 +5,12 @@ body {
 }
 
 h1 {
-  color: dimgrey;
+  color: mediumseagreen;
+  background-color: dimgrey;
   text-align: center;
 }
 p {
-  color: dimgrey;
+  background-color: dimgrey;
+  color: mediumseagreen;
   text-align: left;
 }
