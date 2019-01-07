@@ -1,4 +1,13 @@
+body {
+  background-color: springgreen;
+}
+
 h1 {
-  color: orange;
+  color: dimgrey;
   text-align: center;
+}
+
+p {
+  color: dimgrey;
+  text-align: left;
 }
