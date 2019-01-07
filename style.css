@@ -1,10 +1,12 @@
-body{
-  h1 {
-    color: dimgrey;
-    text-align: center;
-  }
-  p {
-    color: dimgrey;
-    text-align: left;
-  }
+body {
+  background-color: darkseagreen;
+}
+
+h1 {
+  color: dimgrey;
+  text-align: center;
+}
+p {
+  color: dimgrey;
+  text-align: left;
 }
