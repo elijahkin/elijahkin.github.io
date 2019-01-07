@@ -1,15 +1,11 @@
 body{
-
-  background-color: springgreen;
-
   h1 {
-    color: purple;
+    color: dimgrey;
     text-align: center;
   }
-
   p {
     color: dimgrey;
     text-align: left;
   }
-
+  background-color: springgreen;
 }
