@@ -1,6 +1,7 @@
 h1 {
   color: #1DB954;
   text-align: left;
+  text-indent: 0px;
   font-family: 'Montserrat', Helvetica, sans-serif;
   font-style: normal;
   padding-top: 10px;
@@ -9,10 +10,11 @@ h1 {
 h2 {
   color: #EDFAF1;
   text-align: left;
+  text-indent: 0px;
   font-family: 'Montserrat', Helvetica, sans-serif;
   font-style: normal;
   border-bottom: 4px solid #1DB954;
-  padding-bottom: 6px;
+  padding-bottom: 10px;
 }
 
 p {
@@ -21,8 +23,8 @@ p {
   text-indent: 50px;
   font-family: 'Lato', Helvetica, sans-serif;
   font-style: normal;
-  padding-left: 50px;
-  padding-right: 50px;
+  padding-left: 0px;
+  padding-right: 0px;
 }
 
 body {
