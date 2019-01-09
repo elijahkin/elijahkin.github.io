@@ -1,17 +1,17 @@
 h1 {
-  color: green;
+  color: mediumseagreen;
   background-color: dimgrey;
   text-align: center;
   font-family: Arial, Helvetica, sans-serif;
 }
 
 p {
-  color: palegreen;
+  color: mediumseagreen;
   background-color: dimgrey;
   text-align: left;
   font-family: Arial, Helvetica, sans-serif;
 }
 
 body {
-background-color: palegreen;
+background-color: mediumseagreen;
 }
