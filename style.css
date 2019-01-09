@@ -1,11 +1,11 @@
 css
 
-html {
+body {
 background-color: blue;
 }
 
 h1 {
-  color: mediumseagreen;
+  color: green;
   background-color: dimgrey;
   text-align: center;
   font-family: Arial, Helvetica, sans-serif;
