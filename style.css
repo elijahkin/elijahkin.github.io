@@ -23,8 +23,15 @@ p {
   text-indent: 50px;
   font-family: 'Lato', Helvetica, sans-serif;
   font-style: normal;
-  padding-left: 0px;
-  padding-right: 0px;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+footer {
+    color: #1DB954;
+  text-align: center;
+  font-family: 'Montserrat', Helvetica, sans-serif;
+  font-style: normal;
 }
 
 body {
