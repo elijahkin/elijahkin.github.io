@@ -28,8 +28,15 @@ p {
   padding-right: 50px;
 }
 
+links {
+  color: #1DB954;
+  text-align: center;
+  font-family: 'Montserrat', Helvetica, sans-serif;
+  font-style: normal;
+}
+
 footer {
-    color: #1DB954;
+  color: #1DB954;
   text-align: center;
   font-family: 'Montserrat', Helvetica, sans-serif;
   font-style: normal;
