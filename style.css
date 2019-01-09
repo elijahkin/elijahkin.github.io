@@ -1,15 +1,16 @@
 css
 
 html {
-background-color: #A1D490;
+background-color: blue;
 }
 h1 {
+  font-family: Arial, Helvetica, sans-serif;
   color: mediumseagreen;
   background-color: dimgrey;
   text-align: center;
 }
 p {
-  margin: 600px 500px 75px 100px;
+  font-family: Arial, Helvetica, sans-serif;
   background-color: dimgrey;
   color: mediumseagreen;
   text-align: left;
