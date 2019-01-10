@@ -30,14 +30,14 @@ p {
 
 links {
   color: #1DB954;
-  text-align: center;
+  text-align: normal;
   font-family: 'Montserrat', Helvetica, sans-serif;
   font-style: normal;
 }
 
 footer {
   color: #1DB954;
-  align: center;
+  align: normal;
   font-family: 'Montserrat', Helvetica, sans-serif;
   font-style: normal;
 }
@@ -46,5 +46,4 @@ body {
   background-color: #121212;
   padding-left: 100px;
   padding-right: 100px;
-
 }
