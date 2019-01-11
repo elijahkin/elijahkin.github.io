@@ -33,11 +33,12 @@ links {
   text-align: normal;
   font-family: 'Montserrat', Helvetica, sans-serif;
   font-style: normal;
+  paddig-top: 5px;
 }
 
 footer {
   color: #1DB954;
-  text-align: normal;
+  align: normal;
   font-family: 'Montserrat', Helvetica, sans-serif;
   font-style: normal;
 }
@@ -46,30 +47,4 @@ body {
   background-color: #121212;
   padding-left: 100px;
   padding-right: 100px;
-}
-
-
-#respond {
-  margin-top: 40px;
-  font-family: 'Montserrat', Helvetica, sans-serif;
-  color: #1DB954;
-
-}
-
-#respond input[type='text'],
-#respond input[type='email'],
-#respond textarea {
-  margin-bottom: 10px;
-  display: block;
-  width: 100%;
-
-  border: 1px solid rgba(0, 0, 0, 0.1);
-  -webkit-border-radius: 5px;
-  -moz-border-radius: 5px;
-  -o-border-radius: 5px;
-  -ms-border-radius: 5px;
-  -khtml-border-radius: 5px;
-  border-radius: 5px;
-
-  line-height: 1.4em;
 }
