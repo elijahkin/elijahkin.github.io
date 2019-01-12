@@ -21,6 +21,7 @@ h2 {
   display: grid;
   grid-gap: 10px;
   grid-template-columns: 100px 100px 300px;
+  padding-bottom: 20px;
 }
 
 .box {
@@ -34,29 +35,36 @@ h2 {
 
 .a {
   grid-column: 1 / 5;
-  grid-row: 1 / 50;
+  grid-row: 1 / 4;
 }
 
 .b {
   grid-column: 5 ;
-  grid-row: 1 / 100;
+  grid-row: 1 / 20;
 }
 
 .c {
   grid-column: 1 / 5 ;
-  grid-row: 50 / 100;
+  grid-row: 4 / 20;
 }
 
 
 p {
-  color: #EDFAF1;
+  color: #121212;
   text-align: left;
-  text-indent: 50px;
+  text-indent: 25px;
   font-family: 'Lato', Helvetica, sans-serif;
-  font-size: 150%;
+  font-size: 100%;
   font-style: normal;
-  padding-left: 50px;
-  padding-right: 50px;
+}
+
+boxh {
+  font-family: 'Montserrat', Helvetica, sans-serif;
+  color: #1DB954;
+  text-align: left;
+  text-indent: 0px;
+  font-style: normal;
+  padding-bottom: 10px;
 }
 
 links {
@@ -64,7 +72,7 @@ links {
   text-align: normal;
   font-family: 'Montserrat', Helvetica, sans-serif;
   font-style: normal;
-  paddig-top: 20px;
+  paddig-top: 10px;
 }
 
 footer {
