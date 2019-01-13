@@ -1,3 +1,8 @@
+@font-face {
+  font-family: Lato;
+  src: url(lato-v14-latin-ext_latin-regular.woff2);
+}
+
 h1 {
   color: #1DB954;
   text-align: left;
@@ -8,7 +13,7 @@ h1 {
 }
 
 h2 {
-  color: #EDFAF1;
+  color: #D4FAE0;
   text-align: left;
   text-indent: 0px;
   font-family: 'Montserrat', Helvetica, sans-serif;
@@ -19,52 +24,57 @@ h2 {
 
 .wrapper {
   display: grid;
-  grid-gap: 20px;
+  grid-gap: 30px;
   grid-template-columns: 100px 100px 300px;
+  margin-top: 30px;
   padding-bottom: 20px;
 }
 
 .box {
   font-family: 'Montserrat', Helvetica, sans-serif;
-  background-color: #EDFAF1;
+  background-color: #D4FAE0;
   color: #1DB954;
   border-radius: 0px;
   padding: 20px;
   font-size: 150%;
 }
 
+.box:hover {
+  background-color: #D4FAE0;
+}
+
 .a {
   grid-column: 1 / 5;
   grid-row: 1 / 4;
 }
-
 .b {
-  grid-column: 5 ;
+  grid-column: 5 / 8;
   grid-row: 1 / 20;
 }
-
 .c {
   grid-column: 1 / 5 ;
   grid-row: 4 / 20;
 }
-
+.d {
+  grid-column: 1 / 4;
+  grid-row: 20 / 40;
+}
+.e {
+  grid-column: 4 / 8;
+  grid-row: 20 / 30;
+}
+.f {
+  grid-column: 4 / 8;
+  grid-row: 30 / 40;
+}
 
 p {
   color: #121212;
   text-align: left;
   text-indent: 25px;
-  font-family: 'Lato', Helvetica, sans-serif;
+  font-family: Lato, Helvetica, sans-serif;
   font-size: 100%;
   font-style: normal;
-}
-
-boxh {
-  font-family: 'Montserrat', Helvetica, sans-serif;
-  color: #1DB954;
-  text-align: left;
-  text-indent: 0px;
-  font-style: normal;
-  padding-bottom: 10px;
 }
 
 links {
