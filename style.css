@@ -4,7 +4,6 @@
        url('fonts/lato.woff') format('woff'),
        url('fonts/lato.ttf')  format('truetype');
 }
-
 @font-face {
   font-family: Montserrat;
   src: url('fonts/montserrat.woff2') format('woff2'),
@@ -14,21 +13,20 @@
 
 h1 {
   color: #1DB954;
-  text-align: left;
-  text-indent: 0px;
-  font-family: Montserrat, Helvetica, sans-serif;
-  font-style: normal;
   padding-top: 10px;
 }
-
 h2 {
   color: #D4FAE0;
-  text-align: left;
-  text-indent: 0px;
-  font-family: Montserrat, Helvetica, sans-serif;
-  font-style: normal;
   border-bottom: 4px solid #1DB954;
   padding-bottom: 10px;
+}
+p {
+  color: #121212;
+  text-indent: 25px;
+  font-family: Lato, Helvetica, sans-serif;
+}
+footer {
+  color: #1DB954;
 }
 
 .wrapper {
@@ -38,16 +36,12 @@ h2 {
   margin-top: 30px;
   padding-bottom: 20px;
 }
-
 .box {
-  font-family: Montserrat, Helvetica, sans-serif;
   background-color: #D4FAE0;
   color: #1DB954;
-  border-radius: 0px;
   padding: 20px;
   font-size: 150%;
 }
-
 .box:hover {
   background-color: #D4FAE0;
 }
@@ -77,31 +71,8 @@ h2 {
   grid-row: 30 / 40;
 }
 
-p {
-  color: #121212;
-  text-align: left;
-  text-indent: 25px;
-  font-family: Lato, Helvetica, sans-serif;
-  font-size: 100%;
-  font-style: normal;
-}
-
-links {
-  color: #1DB954;
-  text-align: normal;
-  font-family: Montserrat, Helvetica, sans-serif;
-  font-style: normal;
-  paddig-top: 10px;
-}
-
-footer {
-  color: #1DB954;
-  align: normal;
-  font-family: Montserrat, Helvetica, sans-serif;
-  font-style: normal;
-}
-
 body {
+  font-family: Montserrat, Helvetica, sans-serif;
   background-color: #121212;
   padding-left: 100px;
   padding-right: 100px;
