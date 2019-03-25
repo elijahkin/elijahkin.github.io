@@ -1,4 +1,4 @@
-@font-face {
+  ``@font-face {
   font-family: Lato;
   src: url('fonts/lato.woff2') format('woff2'),
        url('fonts/lato.woff') format('woff'),
@@ -49,6 +49,19 @@ footer {
 .box:hover {
   background-color: #D4FAE0;
 }
+.day {
+  background-color: #D4FAE0;
+  color: #121212;
+  font-size: 150%;
+  text-align: left;
+  padding-bottom: 10px;
+}
+
+h4 {
+  color: #1DB954;
+  font-family: Lato, Helvetica, sans-serif;
+  text-align: left;
+}
 
 .container {
   width: 100%;
@@ -61,31 +74,40 @@ footer {
   color: white;
 }
 
+progress {
+
+}
+
+details {
+  background-color: #1DB954;
+  color: #D4FAE0;
+}
+
 .html {width: 45%; background-color: #4CAF50;}
 
 .a {
-  grid-column: 1 / 5;
+  grid-column: 1 / 6;
   grid-row: 1 / 4;
 }
 .b {
-  grid-column: 5 / 8;
-  grid-row: 1 / 20;
+  grid-column: 6 / 8;
+  grid-row: 1 / 10;
 }
 .c {
-  grid-column: 1 / 5 ;
-  grid-row: 4 / 20;
+  grid-column: 1 / 6 ;
+  grid-row: 4 / 10;
 }
 .d {
   grid-column: 1 / 4;
-  grid-row: 20 / 40;
+  grid-row: 10 / 30;
 }
 .e {
   grid-column: 4 / 8;
-  grid-row: 20 / 30;
+  grid-row: 10 / 20;
 }
 .f {
   grid-column: 4 / 8;
-  grid-row: 30 / 40;
+  grid-row: 20 / 30;
 }
 
 body {
