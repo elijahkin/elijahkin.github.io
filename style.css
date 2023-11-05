@@ -1,118 +1,32 @@
-  ``@font-face {
-  font-family: Lato;
-  src: url('fonts/lato.woff2') format('woff2'),
-       url('fonts/lato.woff') format('woff'),
-       url('fonts/lato.ttf')  format('truetype');
-}
 @font-face {
   font-family: Montserrat;
   src: url('fonts/montserrat.woff2') format('woff2'),
-       url('fonts/montserrat.woff') format('woff'),
-       url('fonts/montserrat.ttf') format('truetype');
-}
-
-h1 {
-  color: #1DB954;
-  padding-top: 10px;
-}
-h2 {
-  color: #D4FAE0;
-  border-bottom: 4px solid #1DB954;
-  padding-bottom: 10px;
-}
-h3 {
-  color: #1DB954;
-  text-align: center;
-}
-p {
-  color: #121212;
-  text-indent: 25px;
-  font-family: Lato, Helvetica, sans-serif;
-}
-footer {
-  color: #1DB954;
-}
-
-.wrapper {
-  display: grid;
-  grid-gap: 30px;
-  grid-template-columns: 100px 100px 300px;
-  margin-top: 30px;
-  padding-bottom: 20px;
-}
-.box {
-  background-color: #D4FAE0;
-  color: #1DB954;
-  padding: 20px;
-  font-size: 150%;
-}
-.box:hover {
-  background-color: #D4FAE0;
-}
-.day {
-  background-color: #D4FAE0;
-  color: #121212;
-  font-size: 150%;
-  text-align: left;
-  padding-bottom: 10px;
-}
-
-h4 {
-  color: #1DB954;
-  font-family: Lato, Helvetica, sans-serif;
-  text-align: left;
-}
-
-.container {
-  width: 100%;
-  background-color: #ddd;
-}
-
-.skills {
-  text-align: left;
-  padding: 5px;
-  color: white;
-}
-
-progress {
-
-}
-
-details {
-  background-color: #1DB954;
-  color: #D4FAE0;
-}
-
-.html {width: 45%; background-color: #4CAF50;}
-
-.a {
-  grid-column: 1 / 6;
-  grid-row: 1 / 4;
-}
-.b {
-  grid-column: 6 / 8;
-  grid-row: 1 / 10;
-}
-.c {
-  grid-column: 1 / 6 ;
-  grid-row: 4 / 10;
-}
-.d {
-  grid-column: 1 / 4;
-  grid-row: 10 / 30;
-}
-.e {
-  grid-column: 4 / 8;
-  grid-row: 10 / 20;
-}
-.f {
-  grid-column: 4 / 8;
-  grid-row: 20 / 30;
+    url('fonts/montserrat.woff') format('woff'),
+    url('fonts/montserrat.ttf') format('truetype');
 }
 
 body {
   font-family: Montserrat, Helvetica, sans-serif;
-  background-color: #121212;
-  padding-left: 100px;
-  padding-right: 100px;
+  color: white;
+  background-color: black;
+  padding-left: 8%;
+  padding-right: 8%;
+}
+
+h1 {
+  padding: 1%;
+  border-bottom: 4px solid;
+}
+
+.gallery-img {
+  width: 21%;
+  height: 21%;
+  padding: 1.7%;
+  cursor: pointer;
+  transition: transform 0.2s;
+}
+
+.gallery-img:hover {
+  transform: scale(1.1);
+  cursor: zoom-in;
 }
