@@ -7,7 +7,7 @@ function closeImage() {
   document.getElementById("filter").style.display = "none";
 }
 
-document.addEventListener('keyup', (e) => {
+document.addEventListener("keyup", (e) => {
   if (e.code === "Escape") closeImage()
   else if (e.code === "ArrowLeft") closeImage()
   else if (e.code === "ArrowRight") closeImage()
