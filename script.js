@@ -12,3 +12,9 @@ document.addEventListener("keyup", (e) => {
   else if (e.code === "ArrowLeft") closeImage()
   else if (e.code === "ArrowRight") closeImage()
 });
+
+document.addEventListener('click', (e) => {
+  if (e.target == document.getElementById('filter')) {
+    closeImage();
+  }
+});
