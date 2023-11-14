@@ -43,12 +43,14 @@ function showImage(idx) {
     document.getElementById("description").textContent = renders[focused_idx].desc;
     document.getElementById("filter").style.display = "block";
 
-    MathJax.Hub.Typeset([document.getElementById("description")]);
+    MathJax.Hub.Queue(["Typeset", MathJax.Hub, document.getElementById("description")]);
+    document.body.style.overflow = "hidden";
   }
 }
 
 function closeImage() {
   document.getElementById("filter").style.display = "none";
+  document.body.style.overflow = "auto";
 }
 
 document.addEventListener("keydown", (e) => {
