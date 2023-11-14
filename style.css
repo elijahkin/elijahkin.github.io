@@ -13,8 +13,8 @@ h1 {
 }
 
 .thumbnail {
-  width: 22%;
-  height: 22%;
+  width: 23%;
+  height: 23%;
   padding: 1%;
   cursor: pointer;
   transition: transform 0.2s;
