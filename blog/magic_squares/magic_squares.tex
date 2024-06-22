@@ -1,0 +1,135 @@
+\documentclass[11pt]{amsart}
+
+\theoremstyle{definition}
+\newtheorem{thm}{Theorem}[section]
+\newtheorem{prop}[thm]{Proposition}
+\newtheorem{lem}[thm]{Lemma}
+\newtheorem{cor}[thm]{Corollary}
+\newtheorem{defn}[thm]{Definition}
+
+\title{Impossibility of Magic Square of Nine Squares}
+\author{Elijah Kin}
+
+\begin{document}
+\maketitle
+
+\begin{abstract}
+  Here we attempt to prove the impossibility of a $3 \times 3$ magic square consisting of $9$ distinct squares.
+\end{abstract}
+
+\section{General Formula of Order 3 Magic Squares}
+\cite{alphamagic}
+\cite{Boyer2005}
+\cite{rabern}
+\cite{gardner}
+
+Mark Underwood and Tim Roberts (quadratic residues)
+
+Morgenstern (redux of Rabern, http://multimagie.com/MorgensternMssProperties.pdf)
+
+\section{Elementary Number Theory}
+We will need several results of modular arithmetic in the section that follow. We prove those results here.
+\begin{prop}
+  Addition TODO
+\end{prop}
+
+\begin{prop}
+  Congruence of powers TODO
+\end{prop}
+
+\begin{prop}
+  For all $a \in \mathbb{Z}$, either $a^2 \equiv 0 \mod 4$ or $a^2 \equiv 1 \mod 4$.
+  \begin{proof}
+    If $a$ is even, we can write it as $a = 2k$ for some $k \in \mathbb{Z}$, in which case $a^2 = 4k^2$, so $a^2 \equiv 0 \mod 4$. Conversely, if $a$ is odd, we can write it as $a = 2k + 1$ for some $k \in \mathbb{Z}$, in which case $a^2 = 4(k^2 + k) + 1$, so $a^2 \equiv 1 \mod 4$.
+  \end{proof}
+\end{prop}
+
+\begin{prop}
+  Coprime divisibility TODO
+\end{prop}
+
+\section{Properties of Magic Squares of Squares}
+We would like to be able to impose restrictions on $a$, $b$, and $c$, both in order to accelerate algorithms searching for magic squares of squares, as well as to potentially derive a contradiction implying their impossibility. Towards this end, we claim the following.
+\begin{lem}
+  Both $a \equiv 0 \mod 3$ and $b \equiv 0 \mod 3$.
+  \begin{proof}
+    Since $c$ is a square, either $c \equiv 0 \mod 3$ or $c \equiv 1 \mod 3$. If the former, meaning $c \equiv 0 \mod 3$, then
+    \begin{enumerate}
+      \item $a \equiv 1 \mod 3$ implies $c - a \equiv 2 \mod 3$, hence $c - a$ is not a square.
+      \item $a \equiv 2 \mod 3$ implies $c + a \equiv 2 \mod 3$, hence $c + a$ is not a square.
+    \end{enumerate}
+    Each case above implies an entry is non-square, so it must be that $a \equiv 0 \mod 3$. Otherwise, $c \equiv 1 \mod 3$, in which case
+    \begin{enumerate}
+      \item $a \equiv 1 \mod 3$ implies $c + a \equiv 2 \mod 3$, hence $c + a$ is not a square.
+      \item $a \equiv 2 \mod 3$ implies $c - a \equiv 2 \mod 3$, hence $c - a$ is not a square.
+    \end{enumerate}
+    In either case, $a \equiv 0 \mod 3$. The argument for $b$ is analogous.
+  \end{proof}
+\end{lem}
+\begin{lem}
+  Both $a \equiv 0 \mod 4$ and $b \equiv 0 \mod 4$.
+  \begin{proof}
+    Since $c$ is a square, either $c \equiv 0 \mod 4$ or $c \equiv 1 \mod 4$. If the former, meaning $c \equiv 0 \mod 4$, then
+    \begin{enumerate}
+      \item $a \equiv 1 \mod 4$ implies $c - a \equiv 3 \mod 4$, hence $c - a$ is not a square.
+      \item $a \equiv 2 \mod 4$ implies $c + a \equiv 2 \mod 4$, hence $c + a$ is not a square.
+      \item $a \equiv 3 \mod 4$ implies $c + a \equiv 3 \mod 4$, hence $c + a$ is not a square.
+    \end{enumerate}
+    Each case above implies an entry is non-square, so it must be that $a \equiv 0 \mod 4$. Otherwise, $c \equiv 1 \mod 4$, in which case
+    \begin{enumerate}
+      \item $a \equiv 1 \mod 4$ implies $c + a \equiv 2 \mod 4$, hence $c + a$ is not a square.
+      \item $a \equiv 2 \mod 4$ implies $c + a \equiv 3 \mod 4$, hence $c + a$ is not a square.
+      \item $a \equiv 3 \mod 4$ implies $c - a \equiv 2 \mod 4$, hence $c - a$ is not a square.
+    \end{enumerate}
+    In either case, $a \equiv 0 \mod 4$. The argument for $b$ is analogous.
+  \end{proof}
+\end{lem}
+\begin{thm}
+  Both $a \equiv 0 \mod 12$ and $b \equiv 0 \mod 12$.
+  \begin{proof}
+    Since $\gcd(3, 4) = 1$, this is immediate from the lemmata above.
+  \end{proof}
+\end{thm}
+\begin{cor}
+  All entries of a given magic square of squares are congruent to $c \mod 12$.
+  \begin{proof}
+    TODO
+  \end{proof}
+\end{cor}
+\begin{cor}
+  All entries of a given magic square of squares are of the same parity. That is, either all entries are even or all entries are odd.
+  \begin{proof}
+    This follows trivially from the previous corollary.
+  \end{proof}
+\end{cor}
+We will use this result later to show that the special class of so-called \emph{primitive} magic squares of squares have all odd entries.
+
+\section{Primitive Magic Squares of Squares}
+We will now show that the impossibility of a magic square of squares is implied the impossibility of a special class of so-called \emph{primitive} magic squares of squares and impose even more restrictions on $a$, $b$, and $c$.
+\begin{defn}
+  We say that a magic square is \textbf{primitive} if the $\gcd$ of all elements is one.
+\end{defn}
+
+\begin{thm}
+  If there exists a $3 \times 3$ magic square of squares, then there exists a $3 \times 3$ magic squares of squares which is primitive.
+  \begin{proof}
+    TODO
+  \end{proof}
+\end{thm}
+Note that by the contrapositive of the theorem above, the impossibility of primitive $3 \times 3$ magic squares of squares implies the impossibility of $3 \times 3$ magic squares of squares in general.
+
+By considering only primitive magic squares of squares, we are able to impose even more restrictions on $a$, $b$, and $c$.
+\begin{thm}
+  All entries are congruent to $1 \mod 24$.
+  \begin{proof}
+    TODO This result is due to Zimmerman.
+  \end{proof}
+\end{thm}
+
+\begin{cor}
+  $a \equiv 0 \mod 24$, $b \equiv 0 \mod 24$, and $c \equiv 1 \mod 24$.
+\end{cor}
+
+\bibliographystyle{alpha}
+\bibliography{magic_squares}
+\end{document}
