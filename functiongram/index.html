@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <link rel="stylesheet" href="style.css">
+  <link rel="shortcut icon" type="image/x-icon" href="../favicon.png">
+  <script type="text/javascript" async
+    src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML">
+    </script>
+  <script src="script.js"></script>
+  <title>Functiongram</title>
+</head>
+
+<body>
+  <h1>Functiongram</h1>
+
+  <script>
+    for (let i = 0; i < renders.length; ++i) {
+      var imgElement = document.createElement("img");
+      imgElement.src = renders[i].src;
+      imgElement.className = "thumbnail";
+      imgElement.onclick = showImage.bind(null, i);
+      document.body.appendChild(imgElement);
+    }
+  </script>
+
+  <div id="background">
+    <div id="focused">
+      <img src="" id="image">
+      <div id="info">
+        <h1 id="name"></h1>
+        <p id="description"></p>
+      </div>
+    </div>
+  </div>
+</body>
+
+<footer>
+  <script language="javascript">
+    let lmod = new Date(document.lastModified);
+    document.write("Last modified with &#x2764; on " + lmod.toDateString());
+  </script>
+</footer>
+
+</html>

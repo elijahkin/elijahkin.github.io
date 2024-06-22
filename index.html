@@ -5,42 +5,132 @@
   <meta charset="utf-8">
   <link rel="stylesheet" href="style.css">
   <link rel="shortcut icon" type="image/x-icon" href="favicon.png">
-  <script type="text/javascript" async
-    src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML">
-    </script>
-  <script src="script.js"></script>
-  <title>Functiongram</title>
+  <title>Elijah Kin</title>
 </head>
 
 <body>
-  <h1>Functiongram</h1>
-
-  <script>
-    for (let i = 0; i < renders.length; ++i) {
-      var imgElement = document.createElement("img");
-      imgElement.src = renders[i].src;
-      imgElement.className = "thumbnail";
-      imgElement.onclick = showImage.bind(null, i);
-      document.body.appendChild(imgElement);
-    }
-  </script>
-
-  <div id="background">
-    <div id="focused">
-      <img src="" id="image">
-      <div id="info">
-        <h1 id="name"></h1>
-        <p id="description"></p>
-      </div>
-    </div>
+  <div class="left">
+    <h1>Elijah Kin</h1>
+    <img src="head.jpg" style="width: 100%">
+    <p>
+      Updated with <span style="color: mediumpurple">&#x2764;</span> on
+      <script language="javascript">
+        let lmod = new Date(document.lastModified);
+        const options = { year: "numeric", month: "long", day: "numeric" };
+        document.write(lmod.toLocaleDateString("en-US", options));
+      </script>
+    </p>
+  </div>
+  <div class="right">
+    <h2>About Me</h2>
+    <p>
+      I am a first year Ph.D. student in applied mathematics at the University of Maryland, with particular interest in
+      numerical linear algebra and scientific computing. I received my B.S. in computer science and mathematics from the
+      University of Virginia in May 2024.
+    </p>
+    <h2>Projects</h2>
+    <ul class="list">
+      <li>
+        <h4><a href="functiongram/index.html">Plotting Functions of a Complex Variable</a></h4>
+        <p>I am interested in complex-valued functions, particularly methods of visualization that convey the locations
+          of zeros, poles, branch cuts, and natural boundaries. As a foray into CUDA
+          programming, I wrote <a href="https://github.com/elijahkin/complex-plot">a library</a> for performing two such
+          methods, plus one for iterated fractals such as the Mandelbrot set.</p>
+      </li>
+      <h2>Teaching</h2>
+      <p>Hopefully linear algebra in Fall 2024!</p>
+      <!-- <li>
+        <h3><a href="posts/svd.md">Image Compression with SVD</a></h3>
+        <p>Using linear algebra to decrease image file sizes</p>
+      </li>
+      <li>
+        <h3><a href="posts/rootfinding.md">A Survey of Rootfinding Algorithms</a></h3>
+        <p>Four approaches to finding roots of a function</p>
+      </li>
+      <li>
+        <h3><a href="posts/magic_squares.md">Open Problems Concerning Magic Squares</a></h3>
+        <p>A literature review of some accessible unsolved problems</p>
+      </li>
+      <li>
+        <h3><a href="posts/dots_and_boxes.md">Dots, Boxes, and Reinforcement Learning</a></h3>
+        <p>Training a model to dominate the pen and paper game</p>
+      </li> -->
+    </ul>
+    <h2>Employment</h2>
+    <ul class="list">
+      <li>
+        <h4>Software Engineering Intern, Google</h4>
+        <i>May 2024 &mdash; August 2024</i>
+        <p>Returned to the XLA team for more work on the <a
+            href="https://github.com/openxla/xla/blob/main/xla/service/algebraic_simplifier.cc">algebraic
+            simplifier</a>.</p>
+      </li>
+      <li>
+        <h4>Software Engineering Intern, Google</h4>
+        <i>May 2023 &mdash; August 2023</i>
+        <p>Worked with the XLA team on the <a
+            href="https://github.com/openxla/xla/blob/main/xla/service/algebraic_simplifier.cc">algebraic simplifier</a>
+          to optimally reassociate Dot operations fed by a Broadcast, Reduce, Pad, Slice, Reverse, or another Dot.</p>
+      </li>
+      <!-- <li>
+        <h4>STEP Intern, Google</h4>
+        <i>May 2022 &mdash; August 2022</i>
+        <p>TODO</p>
+      </li>
+      <li>
+        <h4>Software Engineering Intern, MITRE</h4>
+        <i>May 2021 &mdash; August 2021</i>
+        <p>TODO</p>
+      </li> -->
+    </ul>
+    <h2>Awards</h2>
+    <ul class="list">
+      <li>
+        <h4>Thomas Hughes Award Finalist</h4>
+        <i>April 2024</i>
+        <p>Selected as one of the 25 finalists for the best STS 4600 research paper among over 700 engineering
+          undergraduate students in the class of 2024.</p>
+      </li>
+      <li>
+        <h4>Coherent / II-VI Foundation Scholarship</h4>
+        <i>July 2022 & July 2023</i>
+        <p>Merit scholarship of $10,000 to encourage and enable undergraduate students to pursue a career in engineering
+          and mathematics.</p>
+      </li>
+      <li>
+        <h4>William Tyler & Gay Caskie Ross Scholarship</h4>
+        <i>June 2022</i>
+        <p>Merit scholarship of $4,000 awarded by the University of Virginia to students in the school of engineering.
+        </p>
+      </li>
+      <li>
+        <h4>Best Education Hack, HooHacks</h4>
+        <i>March 2022</i>
+        <p>Built a <a href="https://devpost.com/software/smartup">search query tool</a> along with three colleagues for
+          providing students with experience-appropriate learning resources based on <a
+            href="https://en.wikipedia.org/wiki/Flesch%E2%80%93Kincaid_readability_tests">Flesch-Kincaid
+            readability</a>.</p>
+      </li>
+      <!-- <li>
+        <h4>Best Beginner Hack, Hacks of Kindness</h4>
+        <i>May 2024</i>
+        <p>TODO</p>
+      </li> -->
+      <li>
+        <h4>Meritorious, High School Mathematical Modeling Contest</h4>
+        <i>February 2020</i>
+        <p>Of the 791 entries worldwide, the research paper authored by myself and three classmates was one of only 104
+          to receive this distinction and one of only 30 in the United States. Our paper proposed a model for estimating
+          the costs of providing outlets in public spaces such as airports, restaurants, and schools.</p>
+      </li>
+      <li>
+        <h4>National Merit Commended Scholar</h4>
+        <i>October 2018</i>
+        <p>Awarded to the top 4% of national scorers on the PSAT/NMSQT test taken by over 3.5 million high school
+          juniors across the country every year.</p>
+      </li>
+    </ul>
   </div>
 </body>
-
-<footer>
-  <script language="javascript">
-    let lmod = new Date(document.lastModified);
-    document.write("Last modified with &#x2764; on " + lmod.toDateString());
-  </script>
-</footer>
 
 </html>
