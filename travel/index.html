@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <link rel="stylesheet" href="../style.css">
+  <link rel="shortcut icon" type="image/x-icon" href="../favicon.png">
+  <!-- <script type="text/javascript" async
+    src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML">
+    </script> -->
+  <title>Travel</title>
+</head>
+
+<body>
+  <div id="container"></div>
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+  <script>
+    fetch("travel.md")
+      .then(response => response.text())
+      .then(markdown => {
+        const htmlContent = marked(markdown);
+        document.getElementById("container").innerHTML = htmlContent;
+      });
+  </script>
+</body>
+
+<footer>
+  <script language="javascript">
+    let lmod = new Date(document.lastModified);
+    document.write("Last modified with &#x2764; on " + lmod.toDateString());
+  </script>
+</footer>
+
+</html>
