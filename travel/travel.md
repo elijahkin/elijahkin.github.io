@@ -9,11 +9,11 @@ After we met up, he took me to a food court where I ate some Japanese curry, chr
 
 ![Cityscape](images/IMG_2059.JPG)
 
-After coming back down, Sean gave me a Taipei metro crash course as we made our way to the very impressive Chiang Kai-shek memorial. We accidentally arrived just before 4:00pm to witness the changing of the guard ceremony before perusing the museum inside.
+After coming back down, Sean gave me a Taipei metro crash course as we made our way to the very impressive Chiang Kai-shek memorial. We accidentally arrived at 4:00pm, just in time to witness the changing of the guard ceremony before perusing the museum inside.
 
 ![CKS Memorial](images/IMG_2070.JPG)
 
-Next, we walked to the nearby 228 peace memorial park and passed the presidential office building on the way towards Ximending, a very busy neighborhood crammed shops and neon lights. While there, I picked up a Yakult flavor I'd never seen in the US before and a Taiwanese beer recommended by Sean. We also stopped in a cat café, which was surprisingly serene given the volume just on the other side of the window.
+Next, we walked to the nearby 228 peace memorial park and passed the presidential office building on the way towards Ximending, a very busy neighborhood crammed with shops and neon lights. While there, I picked up a Yakult flavor I'd never seen in the US, and a Taiwanese beer recommended by Sean. We also stopped in a cat café, which was surprisingly serene given the volume just on the other side of the window.
 
 ![Cat café](images/IMG_2095.JPG)
 
