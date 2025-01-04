@@ -1,8 +1,20 @@
 # Travel
 ## Taiwan and Japan
-### January 2nd, 2025
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent tortor sapien, fermentum vel imperdiet vitae, volutpat a felis. Suspendisse efficitur tincidunt nunc auctor vulputate. Nullam viverra diam quis erat fringilla feugiat. Aenean vulputate commodo dolor, vitae porttitor eros luctus tristique. Pellentesque auctor fermentum purus, quis vehicula est. Cras quis ex nec orci iaculis mollis. Vivamus ac nibh at massa dictum molestie. Duis gravida velit sit amet auctor interdum. Nam vitae metus sed nibh finibus elementum. Maecenas tortor arcu, tempus ac dolor quis, pulvinar hendrerit justo. Curabitur maximus velit a lobortis consectetur.
+### January 4th, 2025
+After waking up, I walked toward Taipei 101 and wandered around some nearby parks and outdoor malls while waiting for Sean to arrive via the metro. While doing so, I spotted a festive reindeer-dragon hybrid.
 
-![Put a description here!](images/IMG_2005.JPG)
+![Reindeer-dragon hybrid](images/IMG_2056.JPG)
 
-Nullam volutpat enim eu justo dapibus, at congue felis iaculis. Quisque gravida tempus accumsan. In volutpat libero urna, vel finibus turpis cursus id. Vivamus nisl odio, porttitor quis est eget, ornare commodo nunc. Mauris mi metus, hendrerit vitae molestie sit amet, porttitor non sem. Integer metus tellus, dictum eu elit sit amet, feugiat venenatis eros. Vestibulum ut massa in lectus ornare bibendum. Nunc placerat libero velit, sit amet congue velit tempor et. Pellentesque odio neque, tempor a lectus vel, auctor dictum dolor. Aliquam gravida dui vitae metus molestie consectetur eu quis urna. Nulla vulputate interdum est id mollis. Fusce sagittis sollicitudin quam quis luctus. Nulla ac sollicitudin leo. Aenean vulputate orci et metus facilisis auctor. Integer commodo felis eget purus interdum, vel rutrum diam lobortis.
+After we met up, he took me to a food court where I ate some Japanese curry, chrysanthemum tea, and picked up some bread by his recommendation for later. After eating, we walked to Elephant Mountain and started our ascent up a seemingly endless winding of stone stairs. The views of the city were well worth the climb!
+
+![Cityscape](images/IMG_2059.JPG)
+
+After coming back down, Sean gave me a Taipei metro crash course as we made our way to the very impressive Chiang Kai-shek memorial. We accidentally arrived at just before 4:00pm to witness the changing of the guard ceremony before perusing the museum inside.
+
+![CKS Memorial](images/IMG_2070.JPG)
+
+Next, we walked to the nearby 228 peace memorial park and passed the presidential office building on the way towards Ximending, a very busy neighborhood crammed with lots of shops and neon lights. While there, I picked up a Yakult flavor I'd never seen in the US before and a Taiwanese beer recommended by Sean. We also stopped in a café, which was surprisingly serene given the volume just on the other side of the window.
+
+![Cat café](images/IMG_2095.JPG)
+
+I also enjoyed some "stinky tofu" from a vendor on the street, only to witness several of such vendors being chased away by the police as we were leaving Ximending minutes later. On the way back towards Songshan, we stopped by Huashan 1914 Creative Park, a former wine factory during Japanese rule, now converted into stalls for pop-up shops. After that, I said goodbye to Sean for the night, and tested myself by taking the metro back to the hotel, where I enjoyed the bread and beer I picked up earlier and a nice hot bath.
