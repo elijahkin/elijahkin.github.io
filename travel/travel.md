@@ -1,5 +1,28 @@
 # Travel
 ## Taiwan and Japan
+### January 6th, 2025
+Sean went with his parents for a short trip to Tainan until the 8th, so I decided to visit the Taipei zoo. Right after the entrance was a pond with many flamingos balancing on one leg.
+
+![Flamingos](images/IMG_2131.JPG)
+
+Then walking through the tropical rainforest section, containing lorises, toucans, a sloth, orangutans, and more, I came to the elephant section, who were mostly turned away eating while I was there.
+
+![Elephants](images/IMG_2155.JPG)
+
+In the immediate next pen though was a tiger, constantly pacing back and forth along the edge of its pen. I then passed through the desert and African sections, seeing camels (one of which rolled onto its side while I watched), giraffes, and rhinos.
+
+![Camels](images/IMG_2159.JPG)
+
+Then I went through the reptiles and amphibians exhibit, which included a golden axolotl, and finally the penguin exhibit.
+
+![Penguin](images/IMG_2176.JPG)
+
+After that, I headed out of the zoo and picked up two sandwiches from FamilyMart, one with mustard, egg, and cheese, and the other with strawberry jam on a hot dog roll. I was planning to visit the top of Taipei 101 in the evening, but it was pretty cloudy, and it was already dark by the time I reached it.
+
+![Skyline](images/IMG_2179.JPG)
+
+I ended up just wandering around the five lowest floors, before picking up some spicy seafood cup noodles, and checking in early for the night.
+
 ### January 5th, 2025
 Determined to figure out what it was, I began my morning by walking towards the recently opened Taipei dome, which turned out to be a massive baseball stadium with shops and restaurants lining its perimeter. Being in the area, I also wandered next door to the Songshan Creative Park where I relaxed, admiring a spectrum of koi fish swimming in a pond. I also went across the street the Sun Yat-sen Memorial Hall, but found it closed last year for renovations expected to be completed in 2026.
 
