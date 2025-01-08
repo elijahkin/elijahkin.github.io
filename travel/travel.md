@@ -1,5 +1,24 @@
 # Travel
 ## Taiwan and Japan
+### January 7th, 2025
+In the morning, I took the metro to the mountainous Beitou district for a visit to its famous hot springs. I had lunch next to the Beitou public library overlooking a stream below, and then headed to a spring.
+
+The one I visited does not allow photography, but has four pools ranging in temperature from lukewarm to scalding. I found the second hottest very relaxing, but couldn't stay in the hottest for long. Walking back to the station, a passerby on the street asked if I speak English and if I could explain how the lockers at the hot spring work, so I helped him out.
+
+After getting back downtown, I headed towards Taipei 101 and bought a ticket to the observatory spanning floors 89 and 91. The elevator ride took 37 seconds going up, and 45 going down (it needs to be slower going down; with gravity's help, it wouldn't be able to stop otherwise). The views of the city really were spectacular, and very jarring to see just how much the 101 dwarfs the rest of the city.
+
+![Skyline](images/IMG_2186.JPG)
+
+It was also interesting to see places I'd been previously from a new perspective. In particular, the Sun Yat-sen memorial and the Taipei dome.
+
+![Sun Yat-sen Overhead](images/IMG_2185.JPG)
+
+Circling around the observatory to the eastern side, you can also see the mountains and the city struggling to encroach on to them.
+
+![Mountains](images/IMG_2196.JPG)
+
+Returning to the ground, I enjoyed some shrimp fried rice with mushrooms, soup, and tea in the food court before heading back to my hotel for the evening.
+
 ### January 6th, 2025
 Sean went with his parents for a short trip to Tainan until the 8th, so I decided to visit the Taipei zoo. Right after the entrance was a pond with many flamingos balancing on one leg.
 
