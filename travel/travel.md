@@ -1,5 +1,20 @@
 # Travel
 ## Taiwan and Japan
+### January 8th, 2025
+On the map, I could see the Keelung River near my hotel, but I hadn't seen it in person, so I set off walking in that direction. I soon came to a park running alongside it, which lent some nice views of the city.
+
+![Keelung River](images/IMG_2202.JPG)
+
+Then starting to get hungry, I grabbed a lunch of shrimp dumplings, pickled cucumber, and soup, before heading to Zhongshan Park where a zigzagging bridge runs over the water leading to the Tsuei Heng Pagoda.
+
+![Zhongshan Park](images/IMG_2210.JPG)
+
+I then took the metro to Shilin, where Sean and I met up and got dinner at a night market. I tried a Taiwanese pancake and various vegetable and seafood skewers. As we were leaving, Sean told me that several of the metro stops are connected underground by tunnels lined with shops, so we walked the length of one stop, where we passed a synchronized dance practice.
+
+![Shilin](images/IMG_2212.JPG)
+
+I'd also noticed that an excerpt from Chopin's Nocturne Op. 9 No. 2 would play in the station and conclude exactly as the metro pulls in. Sean explained each metro line has its own accompanying music, so we listened to several of them as well.  To end the night, we grabbed cocktails, which were very similar to those in the US, but still very good.
+
 ### January 7th, 2025
 In the morning, I took the metro to the mountainous Beitou district for a visit to its famous hot springs. I had lunch next to the Beitou public library overlooking a stream below, and then headed to a spring.
 
