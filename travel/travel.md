@@ -1,5 +1,10 @@
 # Travel
 ## Taiwan and Japan
+### January 10th, 2025
+After waking up, I packed up my clothes which were still not completely dry from having been washed in the bathtub. I took the bus to Din Tai Fung, where I met Sean for lunch before we headed to the airport. I ordered their specialty, xiaolongbao, a type of dumpling filled with soup to be released when punctured.
+
+After finishing up, we took the metro to the airport and flew to Japan. After taking a train from KIX to Kyoto, we feasted on tempura and udon before heading back to the hotel to plan the next day.
+
 ### January 9th, 2025
 Sean went to have lunch with high school friends, so I ventured onto a bus headed to Jiufen Old Street, a bit outside of Taipei. The weather was cold and foggy, but created some great scenery looking down to the ocean.
 
