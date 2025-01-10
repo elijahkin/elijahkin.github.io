@@ -1,5 +1,16 @@
 # Travel
 ## Taiwan and Japan
+### January 9th, 2025
+Sean went to have lunch with high school friends, so I ventured onto a bus headed to Jiufen Old Street, a bit outside of Taipei. The weather was cold and foggy, but created some great scenery looking down to the ocean.
+
+![Jiufen](images/IMG_2220.JPG)
+
+I wandered around the narrow streets for a long time, only stopping to eat some melon bread. Especially beautiful were the stone stairways between buildings lined with red lamps.
+
+![Alley](images/IMG_2223.JPG)
+
+Upon taking the bus back into Taipei, I decided to spend my last dinner back at the Raohe Street Night Market, where I warmed myself with some hot scallop-shrimp-squid stew.
+
 ### January 8th, 2025
 On the map, I could see the Keelung River near my hotel, but I hadn't seen it in person, so I set off walking in that direction. I soon came to a park running alongside it, which lent some nice views of the city.
 
