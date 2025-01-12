@@ -1,5 +1,39 @@
 # Travel
 ## Taiwan and Japan
+### January 12th, 2025
+After sleeping in, we headed to a nearby restaurant for a set meal of a dried salmon rice bowl, soup, Kyoto pickles, and egg. We then took the metro to the initially very crowded Fushimi Inari-taisha. However, as we ascended further up the mountain through its many torii gates, we were gradually surrounded by fewer and fewer people, becoming quite desolate near the top.
+
+![Fushimi Inari](images/IMG_2279.JPG)
+
+After coming back down, we took the metro across the city to Arashiyama to walk through the dense bamboo forest. By the time we arrived, the monkey park was already closed, but we plan to return in our remaining days.
+
+![Arashiyama Bamboo](images/IMG_2286.JPG)
+
+Upon returning to downtown Kyoto, we ate in an unagi (eel) restaurant, accompanied by several side dishes.
+
+![Eel](images/IMG_2288.JPG)
+
+Finally, we did some souvenir shopping in the Yodobashi mall, taking advantage of Japan's tax exemption system for foreigners. I also bought some nail clippers, which are said to be higher quality here than in the West.
+
+### January 11th, 2025
+For our first breakfast in Kyoto, we had takoyaki (or octopus balls, as Sean calls them) from Nishiki market. After eating, we walked along the river towards the Gion distict. While there, we tried lining up the perfect shot of the Hokan-ji temple at the end of a machiya-lined street.
+
+![Gion](images/IMG_2245.JPG)
+
+Also in the area, we climbed up Kiyomizu-dera for a nice view of the city.
+
+![Kiyomizu-dera](images/IMG_2248.JPG)
+
+Now hungry again from walking, we went to a conveyor belt sushi restaurant, where I experimented with rolls of natto, red caviar, and Bering sea cockle, in addition to a few I knew I'd like. It turns out natto isn't as bad as it's made out to be.
+
+![Conveyor Belt Sushi](images/IMG_2259.JPG)
+
+We then went up the Nidec Kyoto Tower which, after visiting Taipei 101, did not seem very tall, but still provided a view of some of Kyoto's landmarks.
+
+![Nidec Kyoto Tower](images/IMG_2261.JPG)
+
+We had a small dinner of ramen, before heading back to our hotel and to try out the sauna and to cash in our free drink coupons at the bar.
+
 ### January 10th, 2025
 After waking up, I packed up my clothes which were still not completely dry from having been washed in the bathtub. I took the bus to Din Tai Fung, where I met Sean for lunch before we headed to the airport. I ordered their specialty, xiaolongbao, a type of dumpling filled with soup to be released when punctured.
 
