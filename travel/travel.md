@@ -1,5 +1,28 @@
 # Travel
 ## Taiwan and Japan
+### January 13th, 2025
+For our first meal of the day, we had okonomiyaki, cooked directly in front of us on the table. For a drink, I also tried a somewhat radioactive-looking melon flavored Coca-cola.
+
+![Melon Coke](images/IMG_2291.JPG)
+
+We then headed back to Arashiyama, this time for a visit to the monkey park, about a 20-minute walk up a mountain. Upon encountering a monkey even before arriving at the top, we were both impressed that the park is able to get the monkeys to stay, but we concluded that the food tourists pay to feed them probably provides sufficient incentive.
+
+![Monkey View](images/IMG_2294.JPG)
+
+The highlight of the park was getting to see one of the babies sitting and eating leaves with one of the adults. When the adult ran off, the baby quickly followed.
+
+![Baby Monkey](images/IMG_2298.JPG)
+
+Next, we headed back to Gion to see it in the evening. The whole atmosphere from the old wooden machiya to the warm glow of the lamps was very pleasant.
+
+![Gion](images/IMG_2304.JPG)
+
+We stopped into a 100-year-old machiya converted into a Starbucks, where I enjoyed a matcha donut while floor sitting on a cushion protecting the tatami mat floor.
+
+![Starbucks](images/IMG_2305.JPG)
+
+Afterwards, we continued wandering around Gion until stopping into two vertically-neighboring izakaya. In the first, I tried Sapporo beer, and in the second, ochazuke (rice submerged in tea) and a desert of ice cream and mochi. To end the day, we returned once again to the hotel sauna.
+
 ### January 12th, 2025
 After sleeping in, we headed to a nearby restaurant for a set meal of a dried salmon rice bowl, soup, Kyoto pickles, and egg. We then took the metro to the initially very crowded Fushimi Inari-taisha. However, as we ascended further up the mountain through its many torii gates, we were gradually surrounded by fewer and fewer people, becoming quite desolate near the top.
 
