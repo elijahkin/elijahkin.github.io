@@ -1,0 +1,38 @@
+@font-face {
+  font-family: "Computer Modern";
+  src: url(../fonts/cmunrm.woff);
+}
+
+@font-face {
+  font-family: "Computer Modern";
+  src: url(../fonts/cmunbx.woff);
+  font-weight: bold;
+}
+
+@font-face {
+  font-family: "Computer Modern";
+  src: url(../fonts/cmunti.woff);
+  font-style: italic;
+}
+
+body {
+  font-family: "Computer Modern", serif;
+  font-size: 14pt;
+  padding-left: 12%;
+  padding-right: 12%;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 60%;
+}
+
+h1 {
+  text-align: center;
+}
+
+h2 {
+  border-bottom: 2px solid rgba(0, 0, 0, 0.2);
+}

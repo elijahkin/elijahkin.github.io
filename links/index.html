@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <link rel="stylesheet" href="links.css">
+  <link rel="shortcut icon" type="image/x-icon" href="../favicon.png">
+  <title>Links</title>
+</head>
+
+<body>
+  <h1>Links</h1>
+  <h2>Math</h2>
+  <ul>
+    <li><a href="https://www.stat.uchicago.edu/~lekheng/courses/309/books/Trefethen-Bau.pdf">Numerical Linear Algebra</a></li>
+    <li><a href="https://www.graphviz.org/pdf/dotguide.pdf">Drawing graphs with <i>dot</i></a></li>
+    <li><a href="https://venhance.github.io/napkin/Napkin.pdf">An Infinitely Large Napkin</a></li>
+    <li><a href="https://mathshistory.st-andrews.ac.uk/Biographies/">Biographies of Mathematicians</a></li>
+    <li><a href="http://multimagie.com/">Multimagie</a></li>
+    <li><a href="https://kconrad.math.uconn.edu/blurbs/">K. Conrad's Expository Papers</a></li>
+    <li><a href="https://topology.pi-base.org/spaces">π-Base</a></li>
+    <li><a href="https://castel.dev/post/lecture-notes-1/">G. Castel's Blog</a></li>
+  </ul>
+
+  <h2>Programming</h2>
+  <ul>
+    <li><a href="https://en.cppreference.com/w/">C++ Reference</a></li>
+    <li><a href="https://en.wikibooks.org/wiki/C++_Programming/Operators/Operator_Overloading">C++ Operator Overloading</a></li>
+    <li><a href="https://www.intel.com/content/www/us/en/docs/intrinsics-guide/index.html#techs=SVML">Intel Intrinsics Guide</a></li>
+    <li><a href="https://godbolt.org/">Compiler Explorer</a></li>
+    <li><a href="https://learnxinyminutes.com/">Learn X in Y Minutes</a></li>
+  </ul>
+
+  <h2>Hardware</h2>
+  <ul>
+    <li><a href="https://www.jeffgeerling.com/blog/2021/htgwa-create-raid-array-linux-mdadm">HTGWA: Create a RAID array in Linux with mdadm</a></li>
+    <li><a href="https://x220.mcdonnelltech.com/resources/">ThinkPad X220 Resources</a></li>
+  </ul>
+
+  <h2>Media</h2>
+  <ul>
+    <li><a href="https://tubitv.com/movies">Tubi</a></li>
+    <li><a href="https://watch.plex.tv/me">Plex</a></li>
+    <li><a href="https://pluto.tv/us/live-tv/5a4d3a00ad95e4718ae8d8db">Pluto</a></li>
+  </ul>
+
+  <h2>Competitions</h2>
+  <ul>
+    <li><a href="https://projecteuler.net/progress">Project Euler</a></li>
+    <li><a href="https://mysterytwister.org/">Mystery Twister</a></li>
+    <li><a href="https://highload.fun/">Highload Challenges</a></li>
+  </ul>
+
+  <h2>GRE Resources</h2>
+  <ul>
+    <li><a href="https://sites.math.rutgers.edu/~iacoley/gre/">I. Coley's Archive</a></li>
+    <li><a href="https://mathematicsgre.com">Mathematics GRE Forum</a></li>
+    <li><a href="https://www.mathsub.com/resources/">Mathsub</a></li>
+  </ul>
+
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+  <script>
+    fetch("travel.md")
+      .then(response => response.text())
+      .then(markdown => {
+        const htmlContent = marked.parse(markdown);
+        document.getElementById("container").innerHTML = htmlContent;
+      });
+  </script>
+</body>
+
+<footer>
+  <script language="javascript">
+    let lmod = new Date(document.lastModified);
+    document.write("Last modified with &#x2764; on " + lmod.toDateString());
+  </script>
+</footer>
+
+</html>
